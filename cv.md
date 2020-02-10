@@ -10,8 +10,8 @@
 * ModX
 
 ### Education
-2010-2016 | Lobachevsky State University of Nizhni Novgorod, radiophysics faculty, specialist
-summer 2016 | Lobachevsky State University of Nizhni Novgorod, refresher course "web-technology"
+* 2010-2016, Lobachevsky State University of Nizhni Novgorod, radiophysics faculty, specialist
+* summer 2016, Lobachevsky State University of Nizhni Novgorod, refresher course "web-technology"
 
 ### English
 Elementary (A2) 
