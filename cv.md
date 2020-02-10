@@ -1,20 +1,17 @@
-Polina Barabash
+#Polina Barabash
 
-First Name: Polina 
-Last Name: Barabash
+##Contact Info
+* **phone:** +79040415217
+* **e-mail:** polina_11.92@inbox.ru
 
-Contact Info
-phone: +79040415217
-e-mail: polina_11.92@inbox.ru
+##Skills
+* CSS 
+* HTML 
+* ModX
 
-Skills
-CSS 
-HTML 
-ModX
-
-Education
+##Education
 2010-2016, Lobachevsky State University of Nizhni Novgorod, radiophysics faculty, specialist
 summer 2016, Lobachevsky State University of Nizhni Novgorod, refresher course "web-technology"
 
-English
+##English
 Elementary (A2) 
