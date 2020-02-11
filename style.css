@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+h1 {
+    padding: 10px;
+}
+
+h3 {
+    padding: 10px; 
+}
+
+ul {
+    padding: 10px 20px;
+}
+
+.left{
+    padding-left: 10px;
+}
+.education p {
+
+}
