@@ -3,12 +3,6 @@
     margin: 0;
 }
 
-.container {
-    width: 1024px;
-    margin: 0 auto;
-    padding-top: 30px;
-}
-
 h1 {
     padding: 10px;
 }
@@ -21,9 +15,26 @@ ul {
     padding: 10px 20px;
 }
 
-.left{
-    padding-left: 10px;
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    padding-top: 30px;
+    position: relative;
 }
-.education p {
+
+.main {    
+   display: table-cell;
 
 }
+
+.photo {
+    display: table-cell;
+    vertical-align: top;    
+}
+
+.photo img{
+    width: 150px;
+    padding: 20px;
+    border-radius: 50%;
+}
+
